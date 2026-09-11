@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+test_1_log.txt
+batch_170_log.txt
+@AutomationLog.txt
+
+# Models and large files
+yolov8n.pt
+*.pt
+
+# Cache and temp files
+.optimizer_history.json
+_check_cache.py
+_check_materials.py
+_check_result.txt
+nul
+
+# WorkBuddy internal
+.workbuddy/
